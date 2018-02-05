@@ -1,3 +1,7 @@
+// A black outlined square with a red horizontal line centered on the axis between the midpoint of the left side and the midpoint of 
+// the right side and a red diagonal line centered on the axis between the lower left and upper right corners.
+
 rect(20,20,280,280);
+stroke('red');
 line(50,150,250,150);
 line(90,200,200,90);
